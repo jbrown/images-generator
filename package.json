@@ -2,5 +2,8 @@
   "name": "thumbnail-generation",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.26.0"
+  }
 }
